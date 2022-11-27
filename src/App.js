@@ -8,7 +8,7 @@ import Login from "./Login.js";
 function App() {
   const [{ user }, dispatch] = useStateValue();
   return (
-    <div>
+    <div classname="App">
       {!user ? (
         <Login />
       ) : (

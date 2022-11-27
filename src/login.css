@@ -2,6 +2,7 @@
   display: grid;
   place-items: center;
   background-color: rgb(228, 228, 228);
+  height: 100vh;
 }
 .login_container {
   padding: 100px;

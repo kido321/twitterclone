@@ -35,9 +35,9 @@ function Login() {
   return (
     <div className="login">
       <div className=" login_container ">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/OS_X-Logo.svg" />
+        <img src="https://www.edigitalagency.com.au/wp-content/uploads/Twitter-logo-png.png" />
         <div className=" login_text">
-          <h3>SIGN IN TO XMESSAGE</h3>
+          <h3>SIGN IN TO TWITTER CLONE</h3>
           <Button onClick={signIn}>sign in with google</Button>
         </div>
       </div>
